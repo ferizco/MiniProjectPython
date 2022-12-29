@@ -1,6 +1,6 @@
 import json
 from urllib import request
-from tabulate import tabulate
+
 
 url = "https://data.covid19.go.id/public/api/prov.json"
 
